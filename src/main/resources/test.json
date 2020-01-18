@@ -1,0 +1,200 @@
+{
+  "parent": "126809",
+  "by": "pg",
+  "id": 126809,
+  "text": "Poll: What would happen if News.YC had explicit support for polls?",
+  "time": 1204403652,
+  "type": "poll",
+  "comments": [
+    {
+      "parent": "126809",
+      "by": "mixmax",
+      "id": 126822,
+      "text": "The reason I come here is to read interesting articles, participate in discussions where I can have my views challenged by smart people, and (hopefully) contribute to these discussions in a meaningful way.<p>Not to degrade polls in any way, but they don't often add to the above reasons for being here. While I would love to chime in on which web framework is the best my observation is that:<p>a) the information I gain from reading a poll is minimal<p>b) the comments to a poll are less interesting than an ask YC link or a link to a story. The reason being that polls are (mostly) yes/no answers and tend to promote yes/no answers or flamewars.<p>Just my opinion of course. And since I come here to have my views challenged, feel free to do so. :-)",
+      "time": 1204404966,
+      "type": "comment",
+      "comments": [
+        {
+          "parent": "126822",
+          "by": "cstejerean",
+          "id": 127030,
+          "text": "I fully agree with you. Polling would only be interesting if in addition to answering the poll the users would post comments. I like the overview of the different votes at the top of the thread that the polling feature provides but I think there should only be 2 ways of voting:<p>1. vote only when you add a comment by specifying your vote in addition to the comment<p>2. upmodding someone's vote/comment automatically adds a vote from you for the same choice<p>We need to keep in mind that a benefit of polls is that the folks answering can answer without worrying about loosing karma if they vote for the least popular choice. But we need to balance this with the fact that readers of the site don't gain much from just reading the numbers of a poll.",
+          "time": 1204420796,
+          "type": "comment"
+        },
+        {
+          "parent": "126822",
+          "by": "dkasper",
+          "id": 127514,
+          "text": "News.YC in my understanding is not a forum or a discussion group, it is a way to quickly find new interesting links.  Sure, commenting on the articles is great, but polls and the like are not news, and not usually new or interesting (imho).  I think sites like Reddit, Digg, News.YC get watered down when they start adding \"features\" like this.",
+          "time": 1204486525,
+          "type": "comment",
+          "comments": [
+            {
+              "parent": "127514",
+              "by": "h34t",
+              "id": 127742,
+              "text": "I disagree -- good links are easy to find; good discussion is not.",
+              "time": 1204511287,
+              "type": "comment"
+            }
+          ]
+        },
+        {
+          "parent": "126822",
+          "by": "yters",
+          "id": 127081,
+          "text": "Since the front page is so empty, maybe it can be split down the middle between internal and external links.<p>Would this harm the aesthetics?",
+          "time": 1204424710,
+          "type": "comment"
+        },
+        {
+          "parent": "126822",
+          "by": "greendestiny",
+          "id": 127318,
+          "text": "I think what we're seeing a few hours later is the success of the polling feature - the poll on gender has (at the time of writing this) 155 votes, but only 8 points - it has barely stayed on the front page. So while a poll doesn't add a huge amount to the community, the way people upvote polls reflects this if and only if the polling is separate from the frontpage upvote.",
+          "time": 1204461109,
+          "type": "comment"
+        }
+      ]
+    },
+    {
+      "parent": "126809",
+      "by": "andr",
+      "id": 126823,
+      "text": "Most of the \"Ask YC\" questions get answers the asker did not expect, so a poll would do no good.",
+      "time": 1204404998,
+      "type": "comment",
+      "comments": [
+        {
+          "parent": "126823",
+          "by": "pg",
+          "id": 126826,
+          "text": "The creator of a poll can add new choices later, in response to comments.",
+          "time": 1204405090,
+          "type": "comment",
+          "comments": [
+            {
+              "parent": "126826",
+              "by": "mixmax",
+              "id": 126844,
+              "text": "That would skew the results.<p>If it was possible to downvote choices a new choice could maybe start out with an average of the other choices. But since this isn't possible I don't see an obvious way of resolving this.<p>Note by the way that the same mechanism applies to comments, particularly since the comments that are added later and therefore have no votes are displayed at the bottom, thus making it proportionally harder for them to make it to the top of the thread before it falls off the frontpage. The last argument assumes that users start from the top of the page, and don't always make it through all the comments to the bottom. A behaviour that I think is quite common - I know I do it...",
+              "time": 1204406616,
+              "type": "comment",
+              "comments": [
+                {
+                  "parent": "126844",
+                  "by": "mnemonicsloth",
+                  "id": 126986,
+                  "text": "Results of these polls are already skewed because the respondents are self-selected.",
+                  "time": 1204416796,
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "parent": "126986",
+                      "by": "mixmax",
+                      "id": 126990,
+                      "text": "You're right - but that's a problem that can't really be solved, unless we start hijacking unsuspecting random people to answer.<p>:-)",
+                      "time": 1204417238,
+                      "type": "comment"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "parent": "126826",
+              "by": "ratsbane",
+              "id": 127080,
+              "text": "1) I like the way you implemented the poll.\n2) But I'd like to be able to change a vote - even if just for a few minutes.  I upvoted the third choice and then upvoted the second just to see if I could vote for more than one - but that was just a test. I wanted to change my vote but couldn't.\n3) What if you showed votes as a ratio of votes to (quantity of unique visitors since the choice was added)?  This would balance the scores of questions added later.  This might be interesting with comments, too.  A really good comment added to a posting that almost everyone has seen doesn't get recognized so much now.",
+              "time": 1204424631,
+              "type": "comment"
+            },
+            {
+              "parent": "126826",
+              "by": "robg",
+              "id": 127022,
+              "text": "Feature request: Allow author to make choices exclusive or multi-response. By that I mean, some polls<p><a href=\"http://news.ycombinator.com/item?id=126903\" rel=\"nofollow\">http://news.ycombinator.com/item?id=126903</a><p>are designed to allow voters to vote on multiple choices. While others:<p><a href=\"http://news.ycombinator.com/item?id=126923\" rel=\"nofollow\">http://news.ycombinator.com/item?id=126923</a><p>should only allow for a singular response.",
+              "time": 1204420074,
+              "type": "comment"
+            },
+            {
+              "parent": "126826",
+              "by": "abstractbill",
+              "id": 126830,
+              "text": "Wouldn't the results then be biased in favor of the original choices (since they were available longer) making it hard to draw any conclusions?",
+              "time": 1204405682,
+              "type": "comment",
+              "comments": [
+                {
+                  "parent": "126830",
+                  "by": "anewaccountname",
+                  "id": 126837,
+                  "text": "No, because it would be added in according to the scientific method.",
+                  "time": 1204405969,
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "parent": "126837",
+                      "by": "inklesspen",
+                      "id": 126879,
+                      "text": "what on earth does that mean?",
+                      "time": 1204409791,
+                      "type": "comment",
+                      "comments": [
+                        {
+                          "parent": "126879",
+                          "by": "anewaccountname",
+                          "id": 127644,
+                          "text": "It was a joke.",
+                          "time": 1204499668,
+                          "type": "comment"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "parent": "126809",
+      "by": "gojomo",
+      "id": 126917,
+      "text": "Interesting and worth a try.<p>If the poll-maker can add choices later, and people are encouraged to modify their opinions in response to discussion,  you may want to allow voters to change their votes later. OTOH, if you want the polls to be snap surveys of initial impressions, the totals should start out hidden, and votes irreversible, so votes are unswayed by perceived popularity.<p>With the proposed UI,  there's still a problematic conflation of 'agree' with 'quality' -- both are clicks on the same 'up' icon. So I would again suggest using a new right/left vote that means 'agree/disagree', orthogonal to 'promote/bury'. Agree/disagree would have no karma implications, and would lend itself to a horizontal bar-graph of running results:<p><pre><code>  &#62; Users would create too many\n  ***********\n  &#62; Users would create fewer\n  *********\n  &#62; We'd have same number\n  ******************************\n</code></pre>\n(Previous suggestion of orthogonal agree/disagree voting: <a href=\"http://news.ycombinator.com/item?id=117196\" rel=\"nofollow\">http://news.ycombinator.com/item?id=117196</a> )",
+      "time": 1204412657,
+      "type": "comment"
+    },
+    {
+      "parent": "126809",
+      "by": "mechanical_fish",
+      "id": 126993,
+      "text": "I've never liked online polls. They're intensely unscientific, suffering from all the biases that trained sociologists battle every single day, with no attempt to correct for them. And they're easily manipulated, both by the questioner and by the respondents and their claques.<p>Humanity already has enough noise, nonsense, and astroturf masquerading as data; the last thing we need is more of it.",
+      "time": 1204417331,
+      "type": "comment",
+      "comments": [
+        {
+          "parent": "126993",
+          "by": "pg",
+          "id": 127012,
+          "text": "You may be right.  But even if the results were worthless they could still set off interesting conversations.  And the fact is, people already were doing polls, via various awkward hacks.  When your users keep walking through a hole in the wall you should probably make a door there.",
+          "time": 1204418939,
+          "type": "comment",
+          "comments": [
+            {
+              "parent": "127012",
+              "by": "mechanical_fish",
+              "id": 127379,
+              "text": "Well, I thought about trying to argue that it's better to keep polls awkward and ugly, so that people get discouraged from creating the darned things and just ask questions instead. :) But, in fact, you're right: You've tried that already, and it hasn't worked.<p>I suppose polls are the online equivalent of asking people in the audience to raise their hands. It's a similarly useless technique for actually gathering data, but it can be effective as a rhetorical tool. And, given that the alternative in an online forum is to write for a <i>completely invisible</i> audience, maybe it is sometimes better than nothing.",
+              "time": 1204471527,
+              "type": "comment"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

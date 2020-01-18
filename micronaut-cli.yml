@@ -1,0 +1,6 @@
+profile: service
+defaultPackage: graphql.demo
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
+---
